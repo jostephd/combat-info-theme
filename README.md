@@ -1,7 +1,7 @@
 Combat Information Theme for The Battle for Wesnoth
 ===================================================
 
-This is a custom theme for [The Battle for Wesnoth](https://www.wesnoth.org/), by josteph, based on gloccusv's theme.
+This is a custom theme for [The Battle for Wesnoth](https://www.wesnoth.org/), by @jostephd, based on gloccusv's theme.
 
 > A custom theme. Like the default theme, with the following changes:
 > 
