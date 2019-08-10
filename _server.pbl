@@ -11,10 +11,12 @@ After installation, go to Preferences/Display/Theme and select this theme from t
 
 Wesnoth 1.15.0+ required. This theme will not work with older versions, there are known issues.
 
+This addon is maintained by josteph. The theme is based on the asymmetric theme by gloccusv (https://r.wesnoth.org/p589619).
+
 GitHub: https://github.com/jostephd/combat-info-theme/"
 email="josteph@fastmail.com"
 passphrase=""
-tags="jostephd,asymmetric,theme"
+tags="jostephd"
 title="Combat Information Theme"
 type="other"
 version="0.0.1"

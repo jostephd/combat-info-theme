@@ -14,6 +14,8 @@ This is a custom theme for [The Battle for Wesnoth](https://www.wesnoth.org/), b
 > After installation, go to Preferences/Display/Theme and select this theme from the pop-up dialog.
 > 
 > Wesnoth 1.15.0+ required. This theme will not work with older versions, there are known issues.
+>
+> This addon is maintained by josteph. The theme is based on the asymmetric theme by gloccusv (https://r.wesnoth.org/p589619).
 
 Screenshot: See the file [`screenshot.png`][screenshot] in this directory
 
