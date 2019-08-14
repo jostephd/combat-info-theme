@@ -19,7 +19,7 @@ passphrase=""
 tags="jostephd"
 title="Combat Information Theme"
 type="other"
-version="0.0.3+dev"
+version="0.0.3"
 [feedback]
         topic_id=49812
 [/feedback]
